@@ -1,4 +1,4 @@
-This repository contains the Open edX platform release "hotfix-2014-11-17" with ANALYSE module.
+This repository contains the Open edX platform release "hotfix-2016-03-17" with ANALYSE module.
 
 Overview of ANALYSE
 ------------------
