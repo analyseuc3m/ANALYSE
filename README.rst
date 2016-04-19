@@ -11,7 +11,6 @@ ANALYSE is learning analytics tool developed for Open edX. This is a beta releas
 <li>The students in a course can access their own information only which can be used for self-awareness and reflect on their learning process</li>
 <li>The different indicators are processed in background in regular intervals of time as schedule jobs by the use of Celery Beat</li>
 </ul>
-
 Installation
 ------------
 For the installation of ANALYSE you can either:
